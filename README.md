@@ -1,14 +1,3 @@
-# Password-manager
-
-TEAM NAME : Masterminds
-
-Members : 
-
-1)Vandit Patel(SVNIT-CSE)
-
-2)Heet Patel(IIT Guwahati-AI and Data Science)
-
-
 
 # Project Title
 
